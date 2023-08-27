@@ -1,0 +1,15 @@
+C:\Code\AulaUdemy\AulaUdemy\bin\Debug\net6.0\AulaUdemy.exe
+C:\Code\AulaUdemy\AulaUdemy\bin\Debug\net6.0\AulaUdemy.deps.json
+C:\Code\AulaUdemy\AulaUdemy\bin\Debug\net6.0\AulaUdemy.runtimeconfig.json
+C:\Code\AulaUdemy\AulaUdemy\bin\Debug\net6.0\AulaUdemy.dll
+C:\Code\AulaUdemy\AulaUdemy\bin\Debug\net6.0\AulaUdemy.pdb
+C:\Code\AulaUdemy\AulaUdemy\obj\Debug\net6.0\AulaUdemy.csproj.AssemblyReference.cache
+C:\Code\AulaUdemy\AulaUdemy\obj\Debug\net6.0\AulaUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\AulaUdemy\AulaUdemy\obj\Debug\net6.0\AulaUdemy.AssemblyInfoInputs.cache
+C:\Code\AulaUdemy\AulaUdemy\obj\Debug\net6.0\AulaUdemy.AssemblyInfo.cs
+C:\Code\AulaUdemy\AulaUdemy\obj\Debug\net6.0\AulaUdemy.csproj.CoreCompileInputs.cache
+C:\Code\AulaUdemy\AulaUdemy\obj\Debug\net6.0\AulaUdemy.dll
+C:\Code\AulaUdemy\AulaUdemy\obj\Debug\net6.0\refint\AulaUdemy.dll
+C:\Code\AulaUdemy\AulaUdemy\obj\Debug\net6.0\AulaUdemy.pdb
+C:\Code\AulaUdemy\AulaUdemy\obj\Debug\net6.0\AulaUdemy.genruntimeconfig.cache
+C:\Code\AulaUdemy\AulaUdemy\obj\Debug\net6.0\ref\AulaUdemy.dll
