@@ -29,7 +29,7 @@
     Console.WriteLine("Qual a sua idade?");
     int idade = int.Parse(Console.ReadLine());
 
-    Console.WriteLine($"Resultado: ");
+    Console.WriteLine($"resultado: ");
     Console.WriteLine($"Seu nome é: {nome}");
     Console.WriteLine($"Sua idade é: {idade}");
     Console.ReadLine();
